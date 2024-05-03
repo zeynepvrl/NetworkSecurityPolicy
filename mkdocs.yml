@@ -1,0 +1,9 @@
+site_name: Network Security Policy
+site_url: https://zeynepvrl.github.io/NetworkSecurityPolicy/
+nav:
+  - Ana Sayfa: index.md
+
+theme:
+  name: windmill
+
+
